@@ -1,0 +1,5 @@
+{
+  "name": "ShadowPhone",
+  "description": "A dual-profile phone simulator featuring strict data isolation, biometric unlocking, contacts management, and secure backup/restore capabilities.",
+  "requestFramePermissions": []
+}
